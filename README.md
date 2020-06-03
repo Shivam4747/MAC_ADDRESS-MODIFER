@@ -24,7 +24,7 @@ As the name suggests, well, It is a script for **Modifiying/Changing** original 
 
  https://github.com/Shivam4747/MAC_ADDRESS_MODIFIER.git
 
- cd MAC_Modifier_Script
+ cd MAC_ADDRESS_MODIFIER
 
  pip install pyfiglet
 

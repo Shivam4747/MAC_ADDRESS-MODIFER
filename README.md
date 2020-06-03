@@ -4,7 +4,7 @@ As the name suggests, well, It is a script for **Modifiying/Changing** original 
 
 ## Pre-Requisites
 
-- As this script is implemented using some Modules of Python requiring higher version of Python Interpreter, hence **Python 2.7.18** or higher
+- As this script is implemented using some Modules of Python requiring higher version of Python Interpreter, hence **Python 2.7.18** or higher is Required!
 - Operating System must be **Only** Linux(Any Distro!)
 
    > Script will be updated soon to support MS Windows too!

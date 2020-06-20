@@ -22,7 +22,7 @@ As the name suggests, well, It is a script for **Modifiying/Changing** original 
 ```bash 
  sudo su
 
- https://github.com/Shivam4747/MAC_ADDRESS_MODIFIER.git
+ git clone https://github.com/Shivam4747/MAC_ADDRESS_MODIFIER.git
 
  cd MAC_ADDRESS_MODIFIER
 
